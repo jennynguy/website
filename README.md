@@ -1,2 +1,2 @@
-#Jenny's Personal Website
+# Jenny's Personal Website
 This is my personal website.
